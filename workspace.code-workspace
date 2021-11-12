@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../go/src/github.com/r5u_go"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,17 @@
+.data{
+    border-radius: 1px ;
+}
+
+.filter{
+    display: flex;
+    border-radius: 2px ;
+    border: 1px solid lightgray;
+    border-top-left-radius: 1px ;
+    border-bottom-right-radius: 1px;
+}
+
+.filter >input{
+    outline: none;
+    border: none;
+    background-color: non;
+}
